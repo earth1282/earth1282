@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @earth1282
+- 👀 I’m interested in cryptography, privacy tools, and having fun.
+- 💞️ I’m looking to collaborate on various privacy tools: tor-related/adjacent, privacy cryptocurrencies, and more.
+- 📫 How to reach me ... earth1282@manyworlds.xyz
